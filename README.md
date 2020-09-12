@@ -8,6 +8,7 @@ Evox News
 
 🆘 Sobre o desafio
 ------------------
+  Desafio muito legal de se fazer, o objetivo era consumir a api NewsAPI e listar de acordo com o design planejado. 
 
 :wrench: Tecnologias utilizadas:
 ----------------------
