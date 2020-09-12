@@ -5,7 +5,7 @@ export const Container = styled.div`
   max-width: 700%;
   h2 {
     margin-left: 50%;
-    margin-top: 20%;
+    margin-top: 15%;
   } 
 
   div {

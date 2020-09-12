@@ -27,8 +27,6 @@ export default function Main() {
     loadArticles();
   }, []);
 
-  console.log(value);
-
   return (
     <Container>
       <Header>
